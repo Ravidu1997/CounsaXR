@@ -4,5 +4,5 @@ Meet counsellors and patients at one time. Counselloer can put their post under 
 
 Here is a sample vedio.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rhDzV8OBnEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
 
